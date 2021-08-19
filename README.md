@@ -21,7 +21,7 @@ Vivado
 3. 執行 python -m pip install --upgrade pip
 4. 執行 pip install notebook
 5. 重開電腦，之後就會出現在開始列表內
-## How to use 
+## 基本設定
 
 1.先進[官網](https://pynq.readthedocs.io/en/v2.2.1/getting_started/pynq_image.html) 載.image 
 
@@ -33,4 +33,12 @@ Vivado
 如果正常開機的話會跟下方圖片一樣
 ![圖片](https://cdn.discordapp.com/attachments/701994693717917757/877882049170636861/20210819_194443.jpg)
 
-## 
+## 如何使用
+
+前面步驟完成的話
+
+可以在檔案總管打\\pynq即可讀到內容
+
+如果要編輯檔案的話 在一般瀏覽器上打 http://pynq 即可讀取
+
+如果要控制腳位或者GPIO可能會需要使用Vivado (有待考證，檔案實在太大40G多
