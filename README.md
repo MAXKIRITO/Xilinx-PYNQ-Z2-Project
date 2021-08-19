@@ -53,3 +53,4 @@ https://pynq.readthedocs.io/en/v2.2.1/getting_started/pynq_z1_setup.html
 
 https://github.com/ntubiolin/xcos?fbclid=IwAR2rKhh1QeVnAWFDA3uB6nTXroSoG9dCk06ipiiwihkTVNGz8WXp8pIdQFc
 
+https://github.com/Xilinx/PYNQ_Workshop
