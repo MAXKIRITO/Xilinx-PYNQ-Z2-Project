@@ -42,3 +42,12 @@ Vivado
 如果要編輯檔案的話 在一般瀏覽器上打 http://pynq 即可讀取
 
 如果要控制腳位或者GPIO可能會需要使用Vivado (有待考證，檔案實在太大40G多
+
+
+## 參考資料
+http://xilinx.eetrend.com/d6-xilinx/article/2018-12/13964.html
+
+https://pynq.readthedocs.io/en/v2.2.1/getting_started/pynq_z1_setup.html
+
+https://github.com/ntubiolin/xcos?fbclid=IwAR2rKhh1QeVnAWFDA3uB6nTXroSoG9dCk06ipiiwihkTVNGz8WXp8pIdQFc
+
