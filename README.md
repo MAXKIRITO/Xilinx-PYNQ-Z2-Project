@@ -4,6 +4,8 @@ https://pynq.readthedocs.io/en/v2.2.1/getting_started.html
 
 ## 需先準備的東西
 
+PYNQ-Z2
+
 網路線*1
 
 SD卡*1 (SD卡建議選擇32G以上)
