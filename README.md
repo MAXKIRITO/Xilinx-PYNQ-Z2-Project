@@ -2,6 +2,9 @@
 
 https://pynq.readthedocs.io/en/v2.2.1/getting_started.html
 
+# Progect GITHUB
+https://github.com/MAXKIRITO/Xilinx-PYNQ-Z2-Project
+
 # 更新日誌
 
 ## 9/23
