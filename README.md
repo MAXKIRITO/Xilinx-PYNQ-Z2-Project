@@ -2,6 +2,27 @@
 
 https://pynq.readthedocs.io/en/v2.2.1/getting_started.html
 
+# 更新日誌
+
+## 9/23
+  新增了以下幾個目錄
+```
+  +--finally
+    |--master  #成功整合webcam與熱感應器並且能夠控制直流馬
+    |   |--Untitled.ipynb
+    |--amg8833_py_i2c_lib_test
+    |   |--TEST2.ipynb  #測試使否能夠使用adafruit-circuitpython-amg88xx 1.2.8，結論是無法使用
+    |--arduino_uart_test
+    |   |--Untitled.ipynb #測試熱感應器是否能夠直接使用板子上arduino接腳的UART部分，結論無法使用
+    |--faceTracking_test
+    |   |--Untitled1.ipynb  #臉部辨識的基本測試，理論上是能正常工作
+    |--test_usb_serial
+        |--SERAIL_TEST.ipynb  #測試使用USB TO TTL與熱感應器溝通，理論上能正常工作
+```   
+
+
+# 事前準備
+
 ## 需先準備的東西
 
 PYNQ-Z2
@@ -54,3 +75,6 @@ https://pynq.readthedocs.io/en/v2.2.1/getting_started/pynq_z1_setup.html
 https://github.com/ntubiolin/xcos?fbclid=IwAR2rKhh1QeVnAWFDA3uB6nTXroSoG9dCk06ipiiwihkTVNGz8WXp8pIdQFc
 
 https://github.com/Xilinx/PYNQ_Workshop
+
+
+若有不完全的部分請聯絡我們
